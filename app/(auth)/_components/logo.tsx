@@ -15,8 +15,8 @@ export const Logo = () => {
         <Image src="/logo.svg" alt="GameHub" width="80" height="80" />
       </div>
       <div className={cn('flex flex-col items-center', font.className)}>
-        <p className="text-xl font-semibold">GameHub</p>
-        <p className="text-sm text-muted-foreground">Let&apos;s play</p>
+        <p className="text-xl font-semibold">StreamVista</p>
+        <p className="text-sm text-muted-foreground">Let&apos;s stream</p>
       </div>
     </div>
   )

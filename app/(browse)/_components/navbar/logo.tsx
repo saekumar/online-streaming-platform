@@ -16,8 +16,8 @@ export const Logo = () => {
           <Image src="/logo.svg" alt="GameHub" width="45" height="45" />
         </div>
         <div className={cn('hidden lg:block', font.className)}>
-          <p className="text-lg font-semibold">GameHub</p>
-          <p className="text-xs text-muted-foreground">Let&apos;s play</p>
+          <p className="text-lg font-semibold">StreamVista</p>
+          <p className="text-xs text-muted-foreground">Let&apos;s stream</p>
         </div>
       </div>
     </Link>
